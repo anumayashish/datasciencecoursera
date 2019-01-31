@@ -1,2 +1,2 @@
 # datasciencecoursera
-repo as needed orexplained in the assignment
+repo as needed in the assignment
